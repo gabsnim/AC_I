@@ -2,7 +2,7 @@
     Gabriel Xavier Borges - 805347
 */
 
-module Guia_0305;
+module Atividade05;
 
     reg [5:0] a = 0 ; // binary
     //reg [5:0] b = 0 ; // binary
